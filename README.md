@@ -1,7 +1,5 @@
 # 📊 Banking Customer Data - Exploratory Data Analysis (EDA)
 
-## 📄 Project Presentation Guidelines
-
 ### 1️⃣ Project Title & Description
 
 **Title:** Exploratory Data Analysis on Banking Customer Dataset
@@ -70,6 +68,24 @@ This project performs an exploratory data analysis (EDA) of a banking dataset to
   - `Bank Deposits` and `Foreign Currency Account`
 
 **Insight:** Customers maintaining large balances in one account type tend to hold substantial balances across other account types.
+
+### 🖥️ Power BI Dashboard Summary
+
+A complementary **Power BI dashboard** was developed to provide an **interactive visual summary** of key financial metrics:
+
+- **Total Loans**  
+- **Total Deposits**  
+- **Business Lending**  
+- **Savings Accounts**  
+- **Checking Accounts**  
+
+#### Dashboard Features:
+
+- **KPI Cards** to display the current totals for each financial metric.
+- **Bar charts** comparing customer segments (e.g., by `Income Band`, `GenderId`, `Nationality` or 'Occupation").
+- **Interactive filters** to drill down by demographic variables and loyalty classification.
+
+👉 The dashboard enhances **executive-level understanding** of the bank’s customer base and financial product penetration.
 
 ---
 
