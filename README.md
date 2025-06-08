@@ -5,8 +5,7 @@
 **Title:** Exploratory Data Analysis on Banking Customer Dataset
 
 **Description:**  
-This project performs an exploratory data analysis (EDA) of a banking dataset to uncover key patterns, relationships, and insights about customer demographics, financial behavior, and account holdings. The goal is to identify trends and potential factors that influence customer segmentation and financial product usage.
-
+- This project performs an exploratory data analysis (EDA) of a banking dataset to uncover key patterns, relationships, and insights about customer demographics, financial behavior, and account holdings. The goal is to understand the risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 ---
 
 ### 2️⃣ Methodologies Used
